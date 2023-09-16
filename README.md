@@ -70,10 +70,10 @@
 * Уроки - https://www.wiley.com/WileyCDA/Section/id-823690.html
 * Код - https://media.wiley.com/assets/7266/39/CodeFiles.zip
 * Starter Kit PC - https://media.wiley.com/assets/7266/45/AIMStarterKitPC.zip
-* **\readme.txt** - Вместо серверов для майнкрафта, указанных в инструкции **Bukkit** и **Canarymod** использовался актуальный **Spigot**
+* **\readme.txt** - Вместо серверов для майнкрафта, указанных в инструкции **[Bukkit](https://minecraft.fandom.com/ru/wiki/Bukkit)** и **Canarymod** использовался актуальный **Spigot**
 		
 **Сервер Майнкрафта — Spigot 1.20.1 (последняя версия)**
-
+* https://minecraft.fandom.com/ru/wiki/Spigot
 * https://getbukkit.org/download/spigot
 https://download.getbukkit.org/spigot/spigot-1.20.1.jar
 * Качаем и создаем папку **\Spigot** 
@@ -119,6 +119,7 @@ PAUSE
 * Выкачиваем плагин для связи обычного майнкрафта и Питона
 * берем JAR файл и кладем в папку сервера - Spigot\plugins\raspberryjuice-1.12.1.jar
 * https://www.spigotmc.org/resources/raspberryjuice.22724/
+* https://github.com/zhuowei/RaspberryJuice
 * После перезапуска сервер должен подключить плагин
 * Команда "**plugins**" консоли сервера - покажет установленные плагины
 		
@@ -162,6 +163,14 @@ PAUSE
     [21:31:15] [Server thread/INFO]: Plugins (1): RaspberryJuice
 ```
 		
-		
 ## Об ошибках
-* Ошибка подбора порта - https://spigotmc.ru/threads/python-stranno-vedet-sebja-api.3431/
+* [Ошибка подбора порта](https://spigotmc.ru/threads/python-stranno-vedet-sebja-api.3431/)
+* [You Need to Agree to the EULA](https://www.minecraftforum.net/forums/support/server-support-and/2773329-eula-true-you-need-to-agree-to-the-eula)
+* [Java Versions Error](https://stackoverflow.com/questions/76689380/java-runtime-class-file-version-61-0-this-version-of-the-java-runtime-only-re)
+
+## Смотри также
+* [Habr - Увлекательное программирование: изучаем Minecraft](https://habr.com/ru/companies/piter/articles/280023/)
+* [Книга «Minecraft. Программируй свой мир». Вэйл Д., О`Хэнлон М.](https://habr.com/ru/companies/piter/articles/269757/)
+* [python_minecraft](https://github.com/Antipat/python_minecraft)
+* https://github.com/VitekIndustrial/minecraft-art
+* https://github.com/VitekIndustrial/minecraft-art-in-minecraft-world
