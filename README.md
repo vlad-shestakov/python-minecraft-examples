@@ -171,6 +171,11 @@ PAUSE
 ## Смотри также
 * [Habr - Увлекательное программирование: изучаем Minecraft](https://habr.com/ru/companies/piter/articles/280023/)
 * [Книга «Minecraft. Программируй свой мир». Вэйл Д., О`Хэнлон М.](https://habr.com/ru/companies/piter/articles/269757/)
-* [python_minecraft](https://github.com/Antipat/python_minecraft)
-* https://github.com/VitekIndustrial/minecraft-art
-* https://github.com/VitekIndustrial/minecraft-art-in-minecraft-world
+* [Книга. «Python. Великое программирование в Minecraft»](https://vc.ru/u/659760-andrey-koryagin/241472-kniga-python-velikoe-programmirovanie-v-minecraft)
+
+Репозитории
+ 
+* [Antipat/Mathematic-in-minecraft](https://github.com/Antipat/Mathematic-in-minecraft)
+* [Antipat/python_minecraft](https://github.com/Antipat/python_minecraft)
+* [VitekIndustrial/minecraft-art](https://github.com/VitekIndustrial/minecraft-art)
+* [VitekIndustrial/minecraft-art-in-minecraft-world](https://github.com/VitekIndustrial/minecraft-art-in-minecraft-world)
