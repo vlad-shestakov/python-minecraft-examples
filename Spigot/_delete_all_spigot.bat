@@ -1,4 +1,5 @@
 ﻿@echo off
+rem DELETE ALL SPIGOT SERVER DATA
 
 rmdir /Q /S bundler
 rmdir /Q /S logs
