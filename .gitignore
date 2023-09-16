@@ -1,5 +1,6 @@
 .idea
 /_old/*
+/res/originals/*
 server.properties
 /Spigot/**/*.yml
 /Spigot/**/*.json
@@ -8,6 +9,4 @@ server.properties
 /Spigot/world_nether
 /Spigot/world_the_end
 /Spigot/logs
-
-
 

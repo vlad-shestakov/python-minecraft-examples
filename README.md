@@ -1,13 +1,18 @@
 
 # Программирование на Python в Minecraft
 
-Содержит файлы для успешного запуска сервера **Spigot** для Майнкрафт и подключения среды программирования **Python**.
-Основано на материалах книг _"Python. Программирование в Minecraft"_, _"Adventures in Minecraft"_
+Содержит файлы для успешного запуска сервера **Spigot** для Майнкрафт, подключения среды программирования **Python**.
+Основано на материалах и примерах из книг: 
+* _"Python. Программирование в Minecraft"_ ([репозиторий](https://github.com/Antipat/python_minecraft)) 
+* _"Adventures in Minecraft"_ ([репозиторий](https://www.stuffaboutcode.com/p/adventures-in-minecraft.html))
 
+Материалы книг несколько устарели, и сделать все по инструкции было проблематично.
+Этот репозиторий - кратчайший путь попробовать программировать на Питоне в Майнкрафте самому.
+Книга «_Adventures in Minecraft_» представляется более серьезно подготовленной.
 
-Сделано и переведено по инструкции
-* https://www.stuffaboutcode.com/p/adventures-in-minecraft.html
-  * Starter Kit PC - https://media.wiley.com/assets/7266/45/AIMStarterKitPC.zip
+| <img src="res/screenshot01.jpg" height="300"/> | <img src="res/screenshot02.jpg" height="300"/> |
+|------------------------------------------------|------------------------------------------------|
+
 
 ## Установка
 Распаковать этот репозиторий в папку типа
@@ -174,7 +179,9 @@ PAUSE
 * [Книга. «Python. Великое программирование в Minecraft»](https://vc.ru/u/659760-andrey-koryagin/241472-kniga-python-velikoe-programmirovanie-v-minecraft)
 
 Репозитории
- 
+
+* [AdventuresInMinecraft/AdventuresInMinecraft-PC](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft-PC)
+* [AdventuresInMinecraft/AdventuresInMinecraft.github.io](https://github.com/AdventuresInMinecraft/AdventuresInMinecraft.github.io)
 * [Antipat/Mathematic-in-minecraft](https://github.com/Antipat/Mathematic-in-minecraft)
 * [Antipat/python_minecraft](https://github.com/Antipat/python_minecraft)
 * [VitekIndustrial/minecraft-art](https://github.com/VitekIndustrial/minecraft-art)
